@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" preserveAspectRatio="xMidYMid slice">
+  <rect width="360" height="220" fill="#f3ead4"/>
+  <path d="M0 70h360" stroke="#e6d7b0" stroke-width="18"/>
+  <path d="M0 150h360" stroke="#e6d7b0" stroke-width="16"/>
+  <path d="M90 0v220" stroke="#e6d7b0" stroke-width="16"/>
+  <path d="M210 0v220" stroke="#e6d7b0" stroke-width="22"/>
+  <path d="M300 0v220" stroke="#e6d7b0" stroke-width="14"/>
+  <rect x="0" y="62" width="360" height="16" fill="#f7f1e2"/>
+  <rect x="202" y="0" width="16" height="220" fill="#f7f1e2"/>
+  <text x="24" y="28" fill="#8a8374" font-size="11" font-family="Georgia, serif">King St</text>
+  <text x="230" y="28" fill="#8a8374" font-size="11" font-family="Georgia, serif">King St</text>
+  <text x="8" y="118" fill="#8a8374" font-size="11" font-family="Georgia, serif" transform="rotate(-90 18 118)">Kent St</text>
+  <text x="318" y="80" fill="#8a8374" font-size="11" font-family="Georgia, serif" transform="rotate(90 330 80)">George St</text>
+  <rect x="228" y="92" width="92" height="70" fill="#efe4c8" stroke="#d9c89a"/>
+  <text x="236" y="118" fill="#3a3a3a" font-size="11" font-family="Georgia, serif">Museum of</text>
+  <text x="236" y="132" fill="#3a3a3a" font-size="11" font-family="Georgia, serif">Illusions</text>
+  <text x="236" y="148" fill="#6b6458" font-size="9" font-family="Georgia, serif">Unique Things</text>
+  <text x="236" y="160" fill="#6b6458" font-size="9" font-family="Georgia, serif">To Do in Sydney</text>
+  <path d="M168 108c0-18 14-32 32-32s32 14 32 32c0 22-32 48-32 48s-32-26-32-48z" fill="#d22b2b"/>
+  <circle cx="200" cy="108" r="9" fill="#fff"/>
+  <text x="148" y="188" fill="#d22b2b" font-size="12" font-family="Georgia, serif" font-weight="700">The Golden Era</text>
+  <text x="148" y="204" fill="#d22b2b" font-size="12" font-family="Georgia, serif" font-weight="700">Dance Studio</text>
+</svg>
